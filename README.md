@@ -2,7 +2,7 @@
 - :computer:	Chemical Engineering Graduate and Self-Taught Programmer
 - 👀 Fast learner and eager to explore new technologies. 
 - 🌱 I am really passionate about web development
-- 💞️ Steadily growing my knowledge and recently into machine learning algorithms.
+- 💞️ Steadily growing my knowledge and recently into machine learning algorithms
 - :school: Systems Engineering Bootcamp Graduate
 
 As Marvin Minsky writes:
