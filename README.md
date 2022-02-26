@@ -22,26 +22,29 @@ As Marvin Minsky writes:
       ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
      ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-      
-## Database
-
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MSS](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   
 ## Cloud
-
   ![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
- ## OS
- 
-  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Some of my works
+
+### Book Publishing and Tagging System
+-	Layered application hosted using Eclipse IDE , Tomcat 7 and pgadmin.
+- Added functionality: Ability to add, edit and delete books and book tags. 
+-	Includes built from backend tables using SQL which collect input from user on web page.
+-	Includes Java object models and wrote data access methods which populate java object models from database tables.
+-	Traditional front-end model through servlet controllers and to create interface for users to interact with application.
+-	Includes JSPs to create finish application views for model and controllers.
+- Uses CSS, HTML5, and Java to create enhanced UI to support functionality.
+
+
+<img src="https://i.imgur.com/dYzHnBw.gif" width="45%"></img> <img src="https://i.imgur.com/zeMuSNc.gif" width="45%"></img> 
 
 ## 📫 How to reach me?
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimohs/)
+
 
 
 <!---
